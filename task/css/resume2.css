@@ -1,0 +1,74 @@
+h1.a{
+		font-family: Showcard Gothic;
+		font-size: 30pt;
+		font-variant: small-caps;
+		font-style: normal;
+		font-weight: bolder;
+		font-strech: expanded;
+		text-decoration: underline;
+		text-transform: inherit;
+		}
+	h3.a{
+		font-family: Small Fonts;
+		font-size: 20pt;
+		font-variant: small-caps;
+		font-style: normal;
+		font-strech: wider;
+		text-transform: capitalize;
+		text-decoration: overline;
+	}
+	h3.b{
+		font-family: Snap ITC;
+		font-size: 18pt;
+		font-variant: initial;
+		font-style: oblique;
+		font-weight: lighter
+		font-strech: condensed;
+		text-decoration: normal;
+		text-transform: lowercase;
+	}
+	p.b{
+		font-family: Times New Roman;
+		font-size: 14pt;
+		font-variant: initial;
+		font-weight: lighter
+		font-strech: condensed;
+		text-decoration: normal;
+	}
+	table,tr,td{
+		text-align: center;
+	}
+	table,tr,td.c{
+		text-align: left;
+		font-size: 14pt;
+	}
+	a:visited{color: deeppink;}
+	a:hover{font-size: 30pt;color: brown;}
+	.f{
+		margin-left: auto;
+		margin-right: auto;
+		width: 40%;
+		border-radius: 48%;
+	}
+	.aligncenter{
+		text-align: center;
+	}
+	.paragraph{
+		text-transform: uppercase;
+		text-shadow: 2px 2px;
+
+	}
+	.button{
+		border-radius: 12px;
+		padding: 8px;
+		background-color: #4CAF50;
+	}
+	.j{
+		list-style-type:circle;
+		list-style-image: url("pa.jpg");
+	}
+	.a{cursor: crosshair;}
+	.b{cursor: hand;}
+	.c{cursor: no-drop;}
+	.d{cursor: progress;}
+	.e{cursor: all-scroll;}
