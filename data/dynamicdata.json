@@ -1,0 +1,74 @@
+{
+	"details":{
+			"image":"./image/1.jpg",
+			"name":"Chebrolu Sai Sneha",
+			"designation":"Software Engineer Fresher",
+			"profskills":"Proffessional Skills:",
+			"skill1":"Java-Proficient",
+			"skill2":"C-Proficient",
+			"skill3":"Python-Beginner",
+			"persskills":"Personal Skills",
+			"skills":["Genius","Billionier","Hard Working"]
+	},
+	"career":{
+			"careerobj":"Career Objective:",
+			"desc":"To explore the new areas and work in a Dynamic stable Organization which provides me to enhance my skills to grow along with the organization to reach my goals and to secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+
+	},
+	"table1":[
+		{
+			"college":"SNo",
+			"schl":"School/Institute/Organization Name",
+			"qualn":"Qualification",
+			"bord":"University Board",
+			"grade":"CGPA/PER",
+			"durn":"Duration"
+
+		},
+		{
+			"college":"1",
+			"schl":"Gudlavalleru Engineering College",
+			"qualn":"Bachelor of Technology in IT",
+			"bord":"Jawaharlal Nehru Technological University, Kakinada",
+			"grade":"90(Pursing)",
+			"durn":"2021"
+		}
+	],
+	"traineescolleges":[
+		{
+			"college":"SNo",
+			"schl":"School/Institute Name",
+			"qualn":"Qualification",
+			"bord":"University Board",
+			"grade":"CGPA/PER",
+			"durn":"Duration"
+
+		},
+		{
+			"college":"1",
+			"schl":"Gudlavalleru Engineering College",
+			"qualn":"Bachelor of Technology in IT",
+			"bord":"Jawaharlal Nehru Technological University, Kakinada",
+			"grade":"90(Pursing)",
+			"durn":"2021"
+		},
+		{
+			"college":"2",
+			"schl":"Narayana Junior College",
+			"qualn":"Intermediate",
+			"bord":"Board of Intermediate Education,AP",
+			"grade":"97.1",
+			"durn":"2017"
+
+		},
+		{
+			"college":"3",
+			"schl":"Sri Chaitanya Junior College  ",
+			"qualn":"SSC",
+			"bord":"Board of Secondary Education,AP",
+			"grade":"9.3",
+			"durn":"2015"
+		}
+	]
+	
+}

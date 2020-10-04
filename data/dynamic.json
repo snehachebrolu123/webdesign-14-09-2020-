@@ -1,0 +1,37 @@
+{
+	"details":{
+		"name":"web designing using reactjs",
+		"content":["GIT and Github","html5","css3","js","bootstrap","es6","reactjs"],
+		"attendedcount":40
+	},
+	"trainers":[
+		{
+			"name":"D.Sairam",
+			"email":"sairam.d@apssdc.in",
+			"courses":["python","web technology","data analysis","ML"]
+		},
+		{
+			"name":"K.Swami",
+			"email":"swami.kd@apssdc.in",
+			"courses":["python","web technology","data analysis","ML"]
+		}
+	],
+	"traniees":[
+		{
+			"college":"GPCET",
+			"count":15
+		},
+		{
+			"college":"PREC",
+			"count":5
+		},
+		{
+			"college":"RGUKT",
+			"count":25
+		},
+		{
+			"college":"CREC",
+			"count":5
+		}
+	]
+}
